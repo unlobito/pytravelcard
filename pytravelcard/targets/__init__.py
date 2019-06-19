@@ -1,0 +1,2 @@
+from pytravelcard.targets.mifaredesfire import MifareDesfire
+from pytravelcard.targets.mifareclassic4k import MifareClassic4k
